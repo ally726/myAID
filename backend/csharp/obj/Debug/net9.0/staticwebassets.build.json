@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VzWM7g5kpBLLpvSf3VHifqn4/TCoTqax7MhYoaJFss0=",
+  "Source": "ChatProtocolBackend",
+  "BasePath": "_content/ChatProtocolBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

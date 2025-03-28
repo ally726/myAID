@@ -1,0 +1,4 @@
+*.ldb
+data
+docs
+./.env
